@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\pooja\AnypointStudio\studio-workspace\.metadata\.plugins\org.eclipse.jdt.core
+346163147.index
+2216499802.index
+4007854831.index
+2328269416.index
+4078578380.index
+2376816241.index
+332383186.index
+1671771997.index
+1865797976.index
+4205602535.index
+1690891076.index

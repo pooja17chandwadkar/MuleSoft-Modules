@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:file="http://www.mulesoft.org/schema/mule/file" xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/file http://www.mulesoft.org/schema/mule/file/current/mule-file.xsd">
+	<file:config name="File_Config" doc:name="File Config" doc:id="69022d8e-4b9d-4099-b00a-fcbdc9e12df4" >
+		<file:connection workingDir="${file.Dir}" />
+	</file:config>
+	<configuration-properties doc:name="Configuration properties" doc:id="faec5875-1c6c-4b30-af62-c47b80ce9e9a" file="config.yaml" />
+</mule>
